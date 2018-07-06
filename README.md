@@ -12,4 +12,7 @@ $pkg install git
 
 $git clone https://github.com/rootM3eX/Mx-Tools
 
+$bash Mx-Tool.sh
+
+
 # Thanks All Member Attack Of Cyber 
